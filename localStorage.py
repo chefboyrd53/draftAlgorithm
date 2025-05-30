@@ -152,19 +152,3 @@ def getPlayerRoster(player_id: str) -> Dict[str, Any]:
         return players_data[player_id]["roster"]
     except KeyError:
         return {}
-
-def syncToFirebase(db):
-    """Sync all local data to Firebase using an optimized structure for web queries"""
-    # Sync players data (both roster and scoring)
-    for player_id, player_data in players_data.items():
-        # Create a single document for each player containing both roster and scoring data
-        player_doc = {
-            "roster": player_data.get("roster", {}),
-            "scoring": player_data.get("scoring", {})
-        }
-        db.collection('players').document(player_id).set(player_doc)
-    
-    # Sync defense data
-    for team, team_data in defense_data.items():
-        # Create a single document for each team containing all years and weeks
-        db.collection('defense').document(team).set(team_data) 

@@ -1,0 +1,450 @@
+{
+  "ARI": {
+    "2024": {
+      "1": {
+        "points": 20,
+        "touchdowns": 1,
+        "turnovers": 1,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 129,
+        "pointsAllowed": 34
+      }
+    }
+  },
+  "DAL": {
+    "2024": {
+      "1": {
+        "points": 26,
+        "touchdowns": 1,
+        "turnovers": 2,
+        "sacks": 6,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 130,
+        "pointsAllowed": 17
+      }
+    }
+  },
+  "MIN": {
+    "2024": {
+      "1": {
+        "points": 25,
+        "touchdowns": 1,
+        "turnovers": 2,
+        "sacks": 5,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 0,
+        "pointsAllowed": 6
+      }
+    }
+  },
+  "CHI": {
+    "2024": {
+      "1": {
+        "points": 25,
+        "touchdowns": 1,
+        "turnovers": 3,
+        "sacks": 3,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 131,
+        "pointsAllowed": 17
+      }
+    }
+  },
+  "BUF": {
+    "2024": {
+      "1": {
+        "points": 6,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 4,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 60,
+        "pointsAllowed": 28
+      }
+    }
+  },
+  "KC": {
+    "2024": {
+      "1": {
+        "points": 3,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 1,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 57,
+        "pointsAllowed": 20
+      }
+    }
+  },
+  "BAL": {
+    "2024": {
+      "1": {
+        "points": 4,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 3,
+        "pointsAllowed": 27
+      }
+    }
+  },
+  "NO": {
+    "2024": {
+      "1": {
+        "points": 19,
+        "touchdowns": 0,
+        "turnovers": 3,
+        "sacks": 4,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 125,
+        "pointsAllowed": 10
+      }
+    }
+  },
+  "CAR": {
+    "2024": {
+      "1": {
+        "points": 12,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 1,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 232,
+        "pointsAllowed": 47
+      }
+    }
+  },
+  "DEN": {
+    "2024": {
+      "1": {
+        "points": 36,
+        "touchdowns": 0,
+        "turnovers": 2,
+        "sacks": 2,
+        "safeties": 2,
+        "returned2pts": 0,
+        "returnYards": 116,
+        "pointsAllowed": 26
+      }
+    }
+  },
+  "SEA": {
+    "2024": {
+      "1": {
+        "points": 8,
+        "touchdowns": 0,
+        "turnovers": 3,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 74,
+        "pointsAllowed": 20
+      }
+    }
+  },
+  "GB": {
+    "2024": {
+      "1": {
+        "points": 8,
+        "touchdowns": 0,
+        "turnovers": 3,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 24,
+        "pointsAllowed": 34
+      }
+    }
+  },
+  "PHI": {
+    "2024": {
+      "1": {
+        "points": 4,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 38,
+        "pointsAllowed": 29
+      }
+    }
+  },
+  "HOU": {
+    "2024": {
+      "1": {
+        "points": 4,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 0,
+        "pointsAllowed": 27
+      }
+    }
+  },
+  "MIA": {
+    "2024": {
+      "1": {
+        "points": 5,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 3,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 13,
+        "pointsAllowed": 17
+      }
+    }
+  },
+  "DET": {
+    "2024": {
+      "1": {
+        "points": 4,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 18,
+        "pointsAllowed": 20
+      }
+    }
+  },
+  "LA": {
+    "2024": {
+      "1": {
+        "points": 4,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 20,
+        "pointsAllowed": 26
+      }
+    }
+  },
+  "LAC": {
+    "2024": {
+      "1": {
+        "points": 13,
+        "touchdowns": 0,
+        "turnovers": 3,
+        "sacks": 4,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 44,
+        "pointsAllowed": 10
+      }
+    }
+  },
+  "NYG": {
+    "2024": {
+      "1": {
+        "points": 5,
+        "touchdowns": 0,
+        "turnovers": 2,
+        "sacks": 1,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 22,
+        "pointsAllowed": 28
+      }
+    }
+  },
+  "NE": {
+    "2024": {
+      "1": {
+        "points": 10,
+        "touchdowns": 0,
+        "turnovers": 2,
+        "sacks": 3,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 37,
+        "pointsAllowed": 10
+      }
+    }
+  },
+  "SF": {
+    "2024": {
+      "1": {
+        "points": 5,
+        "touchdowns": 0,
+        "turnovers": 2,
+        "sacks": 1,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 15,
+        "pointsAllowed": 19
+      }
+    }
+  },
+  "PIT": {
+    "2024": {
+      "1": {
+        "points": 11,
+        "touchdowns": 0,
+        "turnovers": 3,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 47,
+        "pointsAllowed": 10
+      }
+    }
+  },
+  "TEN": {
+    "2024": {
+      "1": {
+        "points": 13,
+        "touchdowns": 0,
+        "turnovers": 1,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 157,
+        "pointsAllowed": 24
+      }
+    }
+  },
+  "CLE": {
+    "2024": {
+      "1": {
+        "points": 12,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 3,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 169,
+        "pointsAllowed": 33
+      }
+    }
+  },
+  "IND": {
+    "2024": {
+      "1": {
+        "points": 10,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 4,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 109,
+        "pointsAllowed": 29
+      }
+    }
+  },
+  "JAX": {
+    "2024": {
+      "1": {
+        "points": 3,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 3,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 47,
+        "pointsAllowed": 20
+      }
+    }
+  },
+  "LV": {
+    "2024": {
+      "1": {
+        "points": 1,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 1,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 56,
+        "pointsAllowed": 22
+      }
+    }
+  },
+  "CIN": {
+    "2024": {
+      "1": {
+        "points": 1,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 1,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 22,
+        "pointsAllowed": 16
+      }
+    }
+  },
+  "NYJ": {
+    "2024": {
+      "1": {
+        "points": 6,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 3,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 81,
+        "pointsAllowed": 32
+      }
+    }
+  },
+  "ATL": {
+    "2024": {
+      "1": {
+        "points": 5,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 84,
+        "pointsAllowed": 18
+      }
+    }
+  },
+  "TB": {
+    "2024": {
+      "1": {
+        "points": 2,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 2,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 37,
+        "pointsAllowed": 20
+      }
+    }
+  },
+  "WAS": {
+    "2024": {
+      "1": {
+        "points": 1,
+        "touchdowns": 0,
+        "turnovers": 0,
+        "sacks": 1,
+        "safeties": 0,
+        "returned2pts": 0,
+        "returnYards": 48,
+        "pointsAllowed": 37
+      }
+    }
+  }
+}

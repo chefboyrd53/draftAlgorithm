@@ -1,7 +1,6 @@
 import nfl_data_py as nfl
 from scoring import yardageScoring, tdScoring, fgScoring, dstScoring
-from localStorage import syncToFirebase, saveToFiles, loadFromFiles
-from firebaseSetup import db
+from localStorage import saveToFiles, loadFromFiles
 import sys
 
 def scoreWeek(playByPlaydf, weeklydf, year, week):
