@@ -1,4 +1,5 @@
 import json
+import math
 import os
 from typing import Dict, Any, Union
 
@@ -17,9 +18,12 @@ defense_data = {}  # Will be organized by team -> year -> week -> stats
 
 def convert_to_int(value: Union[int, float, str, Any]) -> Union[int, str, Any]:
     """Convert numeric values to integers, leave other types unchanged"""
-    if isinstance(value, (int, float)):
+    if isinstance(value, float) and math.isnan(value):
+        return None  # or a default like 0 or -1
+    try:
         return int(value)
-    return value
+    except (ValueError, TypeError):
+        return value  # return original if it can't be converted
 
 def convert_dict_values(data: Dict[str, Any]) -> Dict[str, Any]:
     """Convert all numeric values in a dictionary to integers"""
