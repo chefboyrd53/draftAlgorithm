@@ -8,6 +8,10 @@ def scoreYardage(playerRows, week, year):
         rushYds = row['rushing_yards']
         recYds = row['receiving_yards']
         numTwoPoints = row['passing_2pt_conversions'] + row['rushing_2pt_conversions'] + row['receiving_2pt_conversions']
+        attempts = row['attempts']
+        completions = row['completions']
+        carries = row['carries']
+        targets = row['targets']
 
         # passing yards
         if 200 <= passYds <= 299:
@@ -62,6 +66,10 @@ def scoreYardage(playerRows, week, year):
             "passTds": 0,
             "rushTds": 0,
             "recTds": 0,
+            "attempts": attempts,
+            "completions": completions,
+            "carries": carries,
+            "targets": targets,
             "fgm": 0,
             "epm": 0,
             "2pConvs": numTwoPoints

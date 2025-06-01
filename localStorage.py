@@ -96,6 +96,10 @@ def getPlayerData(player_id: str, year: int, week: int) -> Dict[str, Any]:
             "passTds": 0,
             "rushTds": 0,
             "recTds": 0,
+            "attempts": 0,
+            "completions": 0,
+            "carries": 0,
+            "targets": 0,
             "fgm": 0,
             "epm": 0,
             "2pConvs": 0
